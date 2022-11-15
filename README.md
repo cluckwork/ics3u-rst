@@ -1,4 +1,4 @@
-# Pellet Game - ICS3UC RST
+# Pellet Game - ICS3U RST
 A game about avoiding pellets, made with Pygame by Roman Daher.
 
 ## Concept
